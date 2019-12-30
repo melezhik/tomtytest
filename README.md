@@ -27,10 +27,12 @@ Integration and blackbox testing service for Raku modules.
 
 # Benefits for TomtyTest service*
 
-\* ( well for me ;=), but also for everyone! )
-
 * Tomty/Sparrow6 will get a great opportunity to grow through the usage across many Raku modules
 * Eventually Raku community will get an alternative testing service available for everyone 
+
+# Example project
+
+[Tomty tests for Red](https://github.com/melezhik/Red-TT)
 
 # Suggested modules
 
