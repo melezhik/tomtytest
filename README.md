@@ -17,9 +17,9 @@ Integration and blackbox testing service for Raku modules.
 # How do tests change my module development life cycle?
 
 * The change is delicate and does not affect your usual development habits
-* You place tests under `.tomty` folder and notify the TomTest maintainers you want to run tests with the Service, providing them with a module name and a module github source code URL   
+* You place tests under `.tomty` folder and notify the TomtyTest maintainers you want to run tests with the Service, providing them with a module name and a module github source code URL   
 * Tests get run separately from your conventional workflow (Travis/unit tests during zef install ) and do not burden your development cycle
-* **You're not tied to the TomTest**, if something goes wrong ( the service goes down or you're decide not to use it anymore ) - nothing has to be done, you just notify the service maintainers and they  remove your module from a check list. Or you just remove `.tomty` folder from your source code.
+* **You're not tied to the TomtyTest**, if something goes wrong ( the service goes down or you're decide not to use it anymore ) - nothing has to be done, you just notify the service maintainers and they  remove your module from a check list. Or you just remove `.tomty` folder from your source code.
 
 # Who write tests?
 
