@@ -25,7 +25,7 @@ Integration and blackbox testing service for Raku modules.
 
 * So far I'am probably the only person who use Sparrow6/Tomty so if you notify me here through comments I'd create a simple test suite for your module and you'll get understanding how to write tests. However the Tomty/Sparrow6 tool is quite simple and has a low learning curve so you could start writing tests very soon
 
-# Benefits for TomtyTest service*
+# Benefits for TomtyTest service
 
 * Tomty/Sparrow6 will get a great opportunity to grow through the usage across many Raku modules
 * Eventually Raku community will get an alternative testing service available for everyone 
